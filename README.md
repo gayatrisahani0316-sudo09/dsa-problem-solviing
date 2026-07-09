@@ -37,4 +37,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0001-two-sum) |
+| [1046-last-stone-weight](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/1046-last-stone-weight) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
