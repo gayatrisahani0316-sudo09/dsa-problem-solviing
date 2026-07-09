@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/1046-last-stone-weight) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
