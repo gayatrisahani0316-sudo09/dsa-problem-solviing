@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0015-3sum) |
 | [66-plus-one](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/66-plus-one) |
 | [217-contains-dublicate](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/217-contains-duplicate) |
 | [268-missing-number](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/268-missing-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0125-valid-palindrome) |
 | [202-happy-number](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/202-happy-number) |
 ## Math
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0015-3sum) |
 | [217-contains-dublicate](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/217-contains-duplicate) |
 | [242-valid-anagram](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/242-valid-anagram) |
 ## Sliding Window
