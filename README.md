@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [20-valid-parantheses](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/20-valid-parentheses)|
 | [0125-valid-palindrome](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0125-valid-palindrome) |
 | [242-valid-anagram](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/242-valid-anagram) |
+| [0796-rotate-string](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
