@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0003-longest-substring-without-repeating-characters) |
 | [202-happy-number](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0205-isomorphic-strings) |
 | [217-contains-dublicate](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/217-contains-duplicate) |
 | [242-valid-anagram](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/242-valid-anagram) |
 | [268-missing-number](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/268-missing-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0003-longest-substring-without-repeating-characters) |
 | [20-valid-parantheses](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/20-valid-parentheses)|
 | [0125-valid-palindrome](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0205-isomorphic-strings) |
 | [242-valid-anagram](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/242-valid-anagram) |
 | [0796-rotate-string](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0796-rotate-string) |
 ## Sliding Window
