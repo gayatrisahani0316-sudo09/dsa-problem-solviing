@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0014-longest-common-prefix) |
 | [20-valid-parantheses](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/20-valid-parentheses)|
 | [0125-valid-palindrome](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0151-reverse-words-in-a-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0015-3sum) |
 | [66-plus-one](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/66-plus-one) |
 | [217-contains-dublicate](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/217-contains-duplicate) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
