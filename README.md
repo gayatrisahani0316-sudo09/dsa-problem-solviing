@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [66-plus-one](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/66-plus-one) |
 | [202-happy-number](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/202-happy-number) |
 | [268-missing-number](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/268-missing-number) |
+| [1922-count-good-numbers](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
