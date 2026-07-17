@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0205-isomorphic-strings) |
 | [242-valid-anagram](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/242-valid-anagram) |
 | [0796-rotate-string](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [66-plus-one](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/66-plus-one) |
 | [202-happy-number](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/202-happy-number) |
 | [268-missing-number](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/main/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/gayatrisahani0316-sudo09/dsa-problem-solviing/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
